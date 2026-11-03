@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/989049872469932470/87ad1fbc79a543cd882f436e8bfe2553/artifacts
+end_time: 1766300108942
+entry_point_name: ''
+experiment_id: '989049872469932470'
+lifecycle_stage: active
+run_id: 87ad1fbc79a543cd882f436e8bfe2553
+run_name: skittish-hen-197
+run_uuid: 87ad1fbc79a543cd882f436e8bfe2553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766300091978
+status: 3
+tags: []
+user_id: juan

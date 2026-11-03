@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/989049872469932470/45c3498b0abb45008bc687c782f350e4/artifacts
+end_time: 1766367135183
+entry_point_name: ''
+experiment_id: '989049872469932470'
+lifecycle_stage: active
+run_id: 45c3498b0abb45008bc687c782f350e4
+run_name: wistful-foal-118
+run_uuid: 45c3498b0abb45008bc687c782f350e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766367122856
+status: 3
+tags: []
+user_id: juan

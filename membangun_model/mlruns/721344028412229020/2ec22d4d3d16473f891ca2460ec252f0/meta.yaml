@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721344028412229020/2ec22d4d3d16473f891ca2460ec252f0/artifacts
+end_time: 1766303660856
+entry_point_name: ''
+experiment_id: '721344028412229020'
+lifecycle_stage: active
+run_id: 2ec22d4d3d16473f891ca2460ec252f0
+run_name: judicious-mare-801
+run_uuid: 2ec22d4d3d16473f891ca2460ec252f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766303660793
+status: 4
+tags: []
+user_id: juan

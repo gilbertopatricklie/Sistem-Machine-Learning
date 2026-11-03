@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721344028412229020/9426256d1823420fa26732d6fe10423f/artifacts
+end_time: 1766303767444
+entry_point_name: ''
+experiment_id: '721344028412229020'
+lifecycle_stage: active
+run_id: 9426256d1823420fa26732d6fe10423f
+run_name: calm-frog-185
+run_uuid: 9426256d1823420fa26732d6fe10423f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766303757745
+status: 3
+tags: []
+user_id: juan
